@@ -38,8 +38,6 @@ THEN I find a concise, descriptive title
 
 https://jerbert16.github.io/Horiseon-accessibility-refractoring-project/
 
-## Horiseon Code Before (Notice how some semantic HTML5 is missing):
-
-![Screenshot](assets/images/Horiseon-code-screenshot-before.png)
+![Screenshot](/Users/jeffreyerbert/bootcamp/challenges/horiseon-accessibility-refractoring-week-1/Assets/01-html-css-git-homework-demo.png)
 
 
