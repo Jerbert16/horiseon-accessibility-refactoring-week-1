@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 
 ## Deployed Application:
 
-https://jerbert16.github.io/Horiseon-accessibility-refractoring-project/
+https://jerbert16.github.io/horiseon-accessibility-refractoring-week-1/
 
 ![Screenshot](/Assets/01-html-css-git-homework-demo.png)
 
