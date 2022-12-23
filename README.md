@@ -38,6 +38,6 @@ THEN I find a concise, descriptive title
 
 https://jerbert16.github.io/horiseon-accessibility-refractoring-week-1/
 
-![Screenshot](/images/01-html-css-git-homework-demo.png)
+![Screenshot](./assets/01-html-css-git-homework-demo.png)
 
 
