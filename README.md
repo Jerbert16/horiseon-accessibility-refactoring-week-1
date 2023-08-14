@@ -1,4 +1,4 @@
-# Horiseon Accessibility Refractoring README - Week 1 Challenge
+# Horiseon Accessibility Refactoring README - Week 1 Challenge
 
 ## Project Description:
 
@@ -36,7 +36,7 @@ THEN I find a concise, descriptive title
 
 ## Deployed Application:
 
-https://jerbert16.github.io/horiseon-accessibility-refractoring-week-1/
+https://jerbert16.github.io/horiseon-accessibility-refactoring-week-1/
 
 ![Screenshot](./assets/01-html-css-git-homework-demo.png)
 
